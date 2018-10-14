@@ -57,7 +57,7 @@ section {
     position: fixed;
     left: 25%;
     top: 0;
-    width: 75%;
+    width: 60%;
     height: 100%;
     overflow: auto;
     background: linear-gradient(to right, rgba(77,114,120,1) 0%, rgba(133,154,157,1) 47%, rgba(216,222,216,1) 100%);
