@@ -36,7 +36,7 @@ ul li img.zoom {
 
 ul li img.zoom:hover {
     transform: scale(1.1);
-    transition: transform 0.2s;
+    transition: transform 0.5s;
 }
 
 a, a:link, a:visited, a:hover {
@@ -80,10 +80,6 @@ section div {
     float: left;
     border: 1px solid #ccc;
     box-shadow: 0 0 20px -5px black;
-}
-.avatar:hover {
-    transform: scale(1.1);
-    transition: transform 0.2s;
 }
 .card {
     overflow: auto;
