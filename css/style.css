@@ -55,9 +55,9 @@ img.background {
 }
 section {
     position: fixed;
-    left: 50%;
+    left: 25%;
     top: 0;
-    width: 50%;
+    width: 75%;
     height: 100%;
     overflow: auto;
     background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
