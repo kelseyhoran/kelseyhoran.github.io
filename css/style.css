@@ -39,8 +39,6 @@ ul li img.zoom:hover {
     transition: transform 0.2s;
 }
 
-}
-
 a, a:link, a:visited, a:hover {
     color: #4499dd;
     text-decoration: none;
